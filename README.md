@@ -1,2 +1,1 @@
-# jESC-Prep-Work
-A collection of our Prep work for our project. 
+This is a collection of our prep work for jESC.
