@@ -3,10 +3,10 @@ This is a collection of our prep work for jESC.
 
 |**Members**
 |-----|
-|John Alfred Alona|
-|Jesus “Christian Emiliano” Vasquez-Ceja|
-|Spencer Mitchell|
-|Connie Uribe Chavez|
+|[John Alfred Alona](https://www.linkedin.com/in/redalona/) / [GitHub](https://github.com/redalona)|
+|[Jesus “Christian Emiliano” Vasquez-Ceja](https://www.linkedin.com/in/emilioceja/) / [GitHub](https://github.com/JesusCEVC)|
+|[Spencer Mitchell](https://www.linkedin.com/in/spencymitch/) / [GitHub](https://github.com/spencymitch)|
+|[Connie Uribe Chavez](https://www.linkedin.com/in/connieuribe/) / [GitHub](https://github.com/connieuribe)|
 
 [Project: Prep #1](https://docs.google.com/document/d/1EtHAZUN86cC86ftgC1n-hLKnIfR0YIirIVXMpV6ifLI/edit#heading=h.p3bme67xoslt)
 
