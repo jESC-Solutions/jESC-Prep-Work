@@ -20,3 +20,5 @@ This is a collection of our prep work for jESC.
 [AOMEI Backupper](https://docs.google.com/document/d/1mr-Jq89D3OjzQdNKfPgposkHjdLgrUF5mRglZSNJptk/edit?usp=sharing)
 
 [Google Workspace](https://docs.google.com/document/d/1Y8mVf617HHwWMhOsmCxvoD_4M41RA0tfkd3gUp_uR3A/edit)
+
+[Teamviewer](https://docs.google.com/document/d/1IMr0ayWK-21MGP8JwkiOMxbG198jjxeHin_dkYKEc7g/edit)
