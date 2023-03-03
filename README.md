@@ -22,3 +22,5 @@ This is a collection of our prep work for jESC.
 [Google Workspace](https://docs.google.com/document/d/1Y8mVf617HHwWMhOsmCxvoD_4M41RA0tfkd3gUp_uR3A/edit)
 
 [Teamviewer](https://docs.google.com/document/d/1IMr0ayWK-21MGP8JwkiOMxbG198jjxeHin_dkYKEc7g/edit)
+
+[Slide Show](https://docs.google.com/presentation/d/131CBesr4A5K8TvxkoAngewF4DN-N3WFETXLRNYk368c/edit?usp=sharing)
